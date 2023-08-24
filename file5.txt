@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 there? could you answer me or not?
+=======
+>>>>>>> parent of 0a24edf (second commit)
